@@ -1,0 +1,15 @@
+2026-07-07 17:35:33,183 | ERROR | Pivot generation calculation failed: Grouper for 'Region' not 1-dimensional
+2026-07-07 17:36:20,478 | ERROR | Excel generation core execution engine failed to build targets files structures: name 'Image' is not defined
+2026-07-07 17:36:46,060 | INFO | PDF compiled and closed securely at target path: C:/Users/binis/OneDrive/Desktop/Own Projects/Python developed/mb.pdf
+2026-07-07 17:41:45,052 | INFO | Report fully serialized out to physical targeted storage layer location path: C:/Users/binis/OneDrive/Desktop/Own Projects/Python developed/gen1.xlsx
+2026-07-07 17:41:56,413 | INFO | PDF compiled and closed securely at target path: C:/Users/binis/OneDrive/Desktop/Own Projects/Python developed/gen2.pdf
+2026-08-04 17:55:01,873 | INFO | Report fully serialized out to physical targeted storage layer location path: C:/Users/binis/OneDrive/Desktop/Own Projects/Generator project/h.xlsx
+2026-08-04 17:55:15,275 | INFO | PDF compiled and closed securely at target path: C:/Users/binis/OneDrive/Desktop/Own Projects/Generator project/hg.pdf
+2026-08-04 17:58:54,380 | INFO | Report fully serialized out to physical targeted storage layer location path: C:/Users/binis/OneDrive/Desktop/Own Projects/Generator project/h.xlsx
+2026-08-04 17:59:02,792 | INFO | PDF compiled and closed securely at target path: C:/Users/binis/OneDrive/Desktop/Own Projects/Generator project/m.pdf
+2026-08-06 21:54:47,253 | ERROR | Pivot generation calculation failed: 'Quantity'
+2026-08-06 21:54:47,694 | ERROR | Pivot generation calculation failed: 'Quantity'
+2026-08-07 08:00:46,836 | INFO | Report fully serialized out to physical targeted storage layer location path: C:/Users/binis/Downloads/sheet.xlsx
+2026-08-07 08:01:00,210 | INFO | PDF compiled and closed securely at target path: C:/Users/binis/Downloads/document.pdf
+2026-08-07 08:03:28,264 | INFO | Report fully serialized out to physical targeted storage layer location path: C:/Users/binis/Downloads/sheet1.xlsx
+2026-08-07 08:03:42,280 | INFO | PDF compiled and closed securely at target path: C:/Users/binis/Downloads/document1.pdf
